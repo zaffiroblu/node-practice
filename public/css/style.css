@@ -1,0 +1,13 @@
+body {
+	background-color: #333;
+	color: white;
+}
+
+a {
+	color: white;
+}
+
+.stack {
+	display: flex;
+	flex-direction: column;
+}
